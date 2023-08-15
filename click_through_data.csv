@@ -1,0 +1,7 @@
+,user_id,item_id,conversion
+0,1,101,True
+1,2,103,False
+2,3,102,True
+3,1,105,True
+4,4,105,False
+5,5,101,True

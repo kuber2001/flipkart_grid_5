@@ -1,0 +1,6 @@
+,item_id,item_name,category,brand,features,specifications,tags,ratings
+0,101,Smartphone,Electronics,BrandX,"5G, 128GB, Dual Camera",Model: XYZ123,"Smartphone, 5G, Camera",4.5
+1,102,T-Shirt,Clothing,BrandY,"Cotton, Round Neck",Size: M,"Clothing, T-Shirt, Casual",3.8
+2,103,Book,Books,BrandZ,"Bestseller, Paperback",Author: ABC,"Books, Fiction, Bestseller",4.0
+3,104,Laptop,Electronics,BrandX,"8GB RAM, SSD",Processor: Intel i5,"Laptop, Performance, Work",4.7
+4,105,Lipstick,Beauty,BrandA,"Long-lasting, Matte Finish",Color: Red,"Beauty, Lipstick, Makeup",4.2
